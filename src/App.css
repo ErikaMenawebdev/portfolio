@@ -743,4 +743,8 @@ section > h2 {
   white-space: nowrap;
 }
 
+.process-container {
+    grid-template-columns: 1fr;
+  }
+
 }
