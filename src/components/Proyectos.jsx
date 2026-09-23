@@ -9,20 +9,20 @@ function Proyectos() {
       <article className="project-card">
         <h3>Evolution Fitness Gym</h3>
 
-        <p>
-          Aplicación web Full Stack para la gestión administrativa de un
-          gimnasio, desarrollada como proyecto de aprendizaje y práctica
-          profesional.
+       <p>
+            Aplicación web Full Stack desarrollada para digitalizar la gestión
+            administrativa de un gimnasio y centralizar la información de
+            clientes, planes, inscripciones y pagos.
         </p>
 
         <p>
-          Incluye gestión de clientes, planes, inscripciones, pagos,
-          autenticación mediante JWT y un dashboard administrativo.
+            Incluye autenticación mediante JWT y un dashboard administrativo
+            para consultar y administrar la información del gimnasio.
         </p>
 
         <p>
-          Tecnologías: React, Vite, Node.js, Express, MongoDB, Mongoose,
-          JWT, bcrypt, Axios y Tailwind CSS.
+            <strong>Tecnologías:</strong> React, Vite, Node.js, Express,
+            MongoDB, Mongoose, JWT, bcrypt, Axios y Tailwind CSS.
         </p>
 
         <a
@@ -38,20 +38,19 @@ function Proyectos() {
         <h3>Portafolio Multimedial</h3>
 
         <p>
-          Portafolio desarrollado para presentar diferentes trabajos
-          realizados durante mi formación como Tecnóloga en Desarrollo
-          Multimedia y Web.
+            Portafolio desarrollado para presentar trabajos realizados durante
+            mi formación como Tecnóloga en Desarrollo Multimedia y Web.
         </p>
 
         <p>
-          Incluye trabajos de diseño gráfico y elementos multimedia como
-          flyers, banners y reels animados.
-        </p>
+            Incluye proyectos de diseño gráfico y contenido multimedia, como
+            flyers, banners y reels animados.
+         </p>
 
-        <p>
-         Herramientas: WordPress, Elementor, Canva, Adobe Illustrator,
-         Adobe Photoshop, CapCut y Adobe Premiere Pro.
-        </p>
+         <p>
+            <strong>Herramientas:</strong> WordPress, Elementor, Canva,
+            Adobe Illustrator, Adobe Photoshop, CapCut y Adobe Premiere Pro.
+         </p>
 
         <a
           href="https://menapa444-zvicl.wordpress.com/"

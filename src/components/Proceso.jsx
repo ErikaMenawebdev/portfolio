@@ -9,8 +9,8 @@ function Proceso() {
           <span className="process-number">01</span>
           <h3>Conocemos el proyecto</h3>
           <p>
-            Conversamos sobre la necesidad, los objetivos y las
-            características del proyecto.
+            Conozco las necesidades del proyecto, los objetivos y las
+            funcionalidades requeridas.
           </p>
         </article>
 
@@ -18,8 +18,8 @@ function Proceso() {
           <span className="process-number">02</span>
           <h3>Definimos la solución</h3>
           <p>
-            Organizamos los requerimientos, el alcance del trabajo
-            y las características que tendrá la solución.
+            Defino la estructura, las tecnologías y las funcionalidades
+            que tendrá la solución.
           </p>
         </article>
 
@@ -27,8 +27,8 @@ function Proceso() {
           <span className="process-number">03</span>
           <h3>Desarrollo</h3>
           <p>
-            Trabajo en el proyecto y mantengo una comunicación
-            clara sobre su avance.
+            Construyo la solución aplicando buenas prácticas de desarrollo
+            y realizando pruebas durante el proceso.
           </p>
         </article>
 
@@ -36,8 +36,8 @@ function Proceso() {
           <span className="process-number">04</span>
           <h3>Entrega</h3>
           <p>
-            Entrego el proyecto terminado y realizamos una revisión
-            para comprobar que cumpla con lo acordado.
+             Presento el proyecto terminado y realizo los ajustes necesarios
+            para su puesta en funcionamiento.
           </p>
         </article>
 

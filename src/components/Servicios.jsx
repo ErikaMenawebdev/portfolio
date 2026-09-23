@@ -12,11 +12,11 @@ function Servicios() {
           <h3>Desarrollo web</h3>
 
           <ul>
-            <li>Desarrollo de interfaces con React</li>
-            <li>Desarrollo de aplicaciones web</li>
-            <li>Integración de APIs REST</li>
+            <li>Desarrollo de sitios y aplicaciones web</li>
+            <li>Interfaces web con React</li>
+            <li>Integración con APIs y servicios web</li>
             <li>Desarrollo backend con Node.js y Express</li>
-            <li>Implementación de bases de datos MongoDB</li>
+            <li>Gestión de datos con MongoDB</li>
           </ul>
         </article>
 
@@ -25,10 +25,10 @@ function Servicios() {
           <h3>WordPress y sitios web</h3>
 
           <ul>
-            <li>Creación y actualización de sitios WordPress</li>
-            <li>Diseño y edición con Elementor</li>
-            <li>Administración de sitios web</li>
-            <li>Actualización de contenido</li>
+            <li>Creación y actualización de sitios en WordPress</li>
+            <li>Diseño y edición de páginas con Elementor</li>
+            <li>Administración y mantenimiento de sitios web</li>
+            <li>Actualización y gestión de contenido</li>
           </ul>
         </article>
 
@@ -37,11 +37,11 @@ function Servicios() {
           <h3>Diseño y contenido digital</h3>
 
           <ul>
-            <li>Diseño de piezas para redes sociales</li>
-            <li>Flyers y material promocional</li>
-            <li>Edición de video</li>
-            <li>Creación de reels</li>
-            <li>Adaptación de contenido para medios digitales</li>
+            <li>Diseño de contenido para redes sociales</li>
+            <li>Creación de flyers y material promocional</li>
+            <li>Edición de videos para medios digitales</li>
+            <li>Creación y edición de reels</li>
+            <li>Adaptación de contenido para diferentes formatos digitales</li>
           </ul>
         </article>
 

@@ -37,8 +37,7 @@ function Inicio() {
   </span>
 </h1>
 
-
-        <h2>Desarrolladora Full Stack JavaScript Junior</h2>
+       <h2>Desarrolladora Full Stack JavaScript Junior</h2>
 
         <p>
           Desarrollo aplicaciones web combinando desarrollo Full Stack

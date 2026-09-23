@@ -6,32 +6,32 @@ function Formacion() {
 
       <div className="education-container">
 
-       <article className="education-item">
-        <h3>Tecnóloga en Desarrollo Multimedia y Web</h3>
+       <article className="education-card">
+          <h3>Tecnóloga en Desarrollo Multimedia y Web</h3>
+          <p>
+            Formación tecnológica orientada al desarrollo web, diseño digital,
+            creación de contenido multimedia y administración de sitios web.
+          </p>
+          <span>SENA</span>
+        </article>
 
-        <p>
-          Formación tecnológica enfocada en el desarrollo de aplicaciones
-          web, tecnologías multimedia y herramientas digitales.
-        </p>
-      </article>
+        <article className="education-card">
+          <h3>Formación en Full Stack JavaScript</h3>
+          <p>
+            Formación enfocada en el desarrollo de aplicaciones web utilizando
+            JavaScript, React, Node.js, Express y MongoDB.
+          </p>
+          <span>Formación complementaria</span>
+        </article>
 
-       <article className="education-item">
-        <h3>Formación en Full Stack JavaScript</h3>
-
-        <p>
-          Formación y aprendizaje práctico en JavaScript, React, Node.js,
-          Express, MongoDB y desarrollo de aplicaciones Full Stack.
-        </p>
-      </article>
-
-       <article className="education-item">
-        <h3>Inglés</h3>
-
-        <p>
-          Formación en inglés como parte de mi desarrollo profesional y
-          preparación para el entorno tecnológico.
-        </p>
-      </article>
+        <article className="education-card">
+          <h3>Inglés</h3>
+          <p>
+            Formación en proceso para fortalecer la comunicación en inglés
+            aplicada al ámbito personal y profesional.
+          </p>
+          <span>Colombo Americano</span>
+        </article>
       </div>
     </section>
   )
