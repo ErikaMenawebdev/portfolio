@@ -4,26 +4,37 @@ function Inicio() {
       <div className="hero-content">
 
         <h1 className="animated-title">
+          
+  <span className="word">
   <span>H</span>
   <span>o</span>
   <span>l</span>
   <span>a</span>
   <span>,</span>
   <span>&nbsp;</span>
+  </span>
+  
+  <span className="word">
   <span>s</span>
   <span>o</span>
   <span>y</span>
   <span>&nbsp;</span>
+  </span>
+
+  <span className="word">
   <span>E</span>
   <span>r</span>
   <span>i</span>
   <span>k</span>
   <span>a</span>
   <span>&nbsp;</span>
+  </span>
+  <span className="word">
   <span>M</span>
   <span>e</span>
   <span>n</span>
   <span>a</span>
+  </span>
 </h1>
 
 
